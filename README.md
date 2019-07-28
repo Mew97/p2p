@@ -1,7 +1,7 @@
 # p2p
 基于spring cloud Alibaba的P2P借贷平台（后端服务）
 ## 开发环境
-* 操作系统：Windows 10 Enterprise
+* 操作系统：Windows 10
 * 开发工具：Intellij IDEA
 * 数据库：MySQL 8.0.13
 * Java SDK：Oracle JDK 1.8.152
