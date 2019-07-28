@@ -31,7 +31,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-commons</artifactId>
-            <version>1.13.7.RELEASE</version>
+            <version>1.13.12</version>
         </dependency>
 
         <dependency>
