@@ -32,7 +32,7 @@
         <spring-boot-pagehelper.version>1.2.10</spring-boot-pagehelper.version>
 
         <!-- Commons Settings -->
-        <mysql.version>8.0.13</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
     </properties>
 
     <dependencyManagement>
